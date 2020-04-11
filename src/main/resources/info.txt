@@ -1,0 +1,2 @@
+classname=2班, avg_chinese=83, avg_math=76, avg_english=74, avg_total=234
+classname=1班, avg_chinese=98, avg_math=88, avg_english=77, avg_total=264
